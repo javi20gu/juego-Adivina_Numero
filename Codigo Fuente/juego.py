@@ -2,9 +2,9 @@ from random import randint
 from sys import exit
 from ClassJugadores import Jugadores
 from ClassJuego import Juego
-from colores import color
+from Clases_Bases import color
 
-__author__ = 'Javier'
+
 def play():
 
     """Verifica los Numeros de Jugadores"""
